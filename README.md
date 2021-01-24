@@ -9,7 +9,7 @@ This is simple go-application for looking imap/pop3/smtp config from ISP DB by M
 ```
 --update-threads=100 - default 100 threads at the pool for downloader cache
 --port=37896 - port for api handler
---update-cache=1 - need update cache from ISPDB mozilla
+--update-cache=1 - need update cache from ISPDB mozilla before run web api OR configs will be load from cache-file
 
 ```
 
