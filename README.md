@@ -1,7 +1,7 @@
 # Ispdb Api Handler
 
 ### About
-This is go-application for looking imap/pop3/smtp config from ISP DB by Mozilla (Thunderbird autoconfig) with local caching configs and web api.
+This is simple go-application for looking imap/pop3/smtp config from ISP DB by Mozilla (Thunderbird autoconfig) with local caching configs and web api.
 
 ### Features
 
